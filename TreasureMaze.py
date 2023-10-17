@@ -109,7 +109,6 @@ class TreasureMaze(object):
         envstate = canvas.reshape((1, -1))
         return envstate
 
-    # To help with visualization, this class includes a draw method to visualize the cells. 
     # Free cells are marked with white and occupied cells with black. 
 
     def draw_env(self):

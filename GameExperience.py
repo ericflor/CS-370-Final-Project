@@ -1,5 +1,4 @@
 # This class stores the episodes, all the states that come in between the initial state and the terminal state. 
-# This is later used by the agent for learning by experience, called "exploration". 
 
 import numpy as np
 

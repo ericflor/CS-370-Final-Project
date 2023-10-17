@@ -36,7 +36,7 @@ This project was a culmination of the learning journey through reinforcement lea
 
 # Treasure Hunt Game - Reinforcement Learning w/ Neural Networks
 
-## Project Two – Design Defense
+## Design Defense
 
 ### Analyze the differences between human and machine approaches to solving problems:
 

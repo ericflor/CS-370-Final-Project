@@ -1,8 +1,42 @@
 # CS-370-Final-Project
 
-Treasure Hunt Game - Reinforcement Learning w/ Neural Networks
 
-Project Two – Design Defense 
+# Pirate Intelligent Agent
+
+## Overview
+In this project, I developed a pirate intelligent agent using reinforcement learning and neural networks to navigate a maze and locate a treasure. The intelligent agent was built on top of a Jupyter Notebook environment and showcased the application of key concepts in reinforcement learning to address real-world challenges.
+
+## Project Details
+
+### Work Overview
+The project provided a foundational structure where some code templates and guidance on the game mechanics were given. I was tasked with implementing the logic for the intelligent agent to learn and make decisions in the maze environment. 
+
+- **Given Code**: 
+  - I was provided with starter code that outlined the maze environment, some foundational game mechanics, and pseudocode to guide the development process.
+- **Self-created Code**: 
+  - I successfully built the Q-learning training mechanism (`qtrain` function) by connecting various components of the game environment like state observation, action execution, and experience replay.
+  - The reinforcement learning agent utilizes a neural network model to predict actions and was trained over multiple epochs until a desired win rate was achieved.
+
+### Connection to Computer Science
+- **What do computer scientists do and why does it matter?**  
+  Computer scientists design and develop algorithms, computational systems, and applications that drive technology and innovation. In this project, the essence of computer science was evident in designing an algorithm (reinforcement learning) that enables a virtual agent to learn and make intelligent decisions. Such innovations have real-world implications, from robotics to autonomous driving and beyond.
+
+- **How do I approach a problem as a computer scientist?**  
+  Tackling this project involved a systematic approach typical of computer science: understanding the problem, breaking it down into smaller tasks, and iteratively designing, coding, and testing solutions. The training mechanism I developed was iteratively refined to optimize the agent's performance.
+
+- **What are my ethical responsibilities to the end user and the organization?**  
+  As a computer scientist, I bear the responsibility of ensuring that the algorithms and systems I develop are reliable, robust, and free from biases. For this project, this meant ensuring the agent acted logically and consistently within the environment. Beyond this specific scenario, computer scientists must also prioritize user privacy, data security, and the broader implications of their creations on society.
+
+## Reflection
+This project was a culmination of the learning journey through reinforcement learning and neural networks. Building the pirate intelligent agent provided hands-on experience and deepened my understanding of how abstract concepts in machine learning can be applied to practical scenarios. By reflecting on this project, I've further solidified my understanding and am better prepared to take on more complex challenges in the realm of artificial intelligence and computer science.
+
+
+---
+
+
+#Treasure Hunt Game - Reinforcement Learning w/ Neural Networks
+
+#Project Two – Design Defense 
 
  
 
